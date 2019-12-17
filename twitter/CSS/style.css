@@ -1,0 +1,59 @@
+.row{
+    height: 650px;
+   
+   
+}
+
+.box{
+    background-color:#1da1f2;
+    color: white;
+
+  
+}
+
+.col-lg-6{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.box1{
+    background-color: white;
+    color: black;
+  
+}
+
+span{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 8px;
+}
+
+.xxx input{
+    margin-right:15px;
+}
+
+.mmm{
+    margin-top: 150px;
+    margin-left: 200px;
+    max-width: 30%;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+h5{
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.fa-twitter{
+
+    color: #1da1f2;
+}
+
+.btn{
+    border-radius: 50px;
+}
+
